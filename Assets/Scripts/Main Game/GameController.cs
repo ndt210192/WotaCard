@@ -78,5 +78,5 @@ public class GameController : MonoBehaviour
             index++;
         }
     }
-    //try
+    //is it ok now?
 }
